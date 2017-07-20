@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Colorsublime",
+		"Djaneiro",
+		"MapfileSyntax",
+		"Package Control",
+		"SublimeCodeIntel"
+	]
+}
